@@ -1,0 +1,14 @@
+C:\Users\msi\source\repos\Threaderer\bin\Debug\net8.0\Threaderer.exe
+C:\Users\msi\source\repos\Threaderer\bin\Debug\net8.0\Threaderer.deps.json
+C:\Users\msi\source\repos\Threaderer\bin\Debug\net8.0\Threaderer.runtimeconfig.json
+C:\Users\msi\source\repos\Threaderer\bin\Debug\net8.0\Threaderer.dll
+C:\Users\msi\source\repos\Threaderer\bin\Debug\net8.0\Threaderer.pdb
+C:\Users\msi\source\repos\Threaderer\obj\Debug\net8.0\Threaderer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\source\repos\Threaderer\obj\Debug\net8.0\Threaderer.AssemblyInfoInputs.cache
+C:\Users\msi\source\repos\Threaderer\obj\Debug\net8.0\Threaderer.AssemblyInfo.cs
+C:\Users\msi\source\repos\Threaderer\obj\Debug\net8.0\Threaderer.csproj.CoreCompileInputs.cache
+C:\Users\msi\source\repos\Threaderer\obj\Debug\net8.0\Threaderer.dll
+C:\Users\msi\source\repos\Threaderer\obj\Debug\net8.0\refint\Threaderer.dll
+C:\Users\msi\source\repos\Threaderer\obj\Debug\net8.0\Threaderer.pdb
+C:\Users\msi\source\repos\Threaderer\obj\Debug\net8.0\Threaderer.genruntimeconfig.cache
+C:\Users\msi\source\repos\Threaderer\obj\Debug\net8.0\ref\Threaderer.dll
